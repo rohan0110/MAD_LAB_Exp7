@@ -1,16 +1,3 @@
-# navigation_drawer
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Exp 7: navigation_drawer
+Output:
+![nd](https://github.com/rohan0110/MAD_LAB_Exp7/assets/110125066/0939ac62-3d86-4bbd-bd19-0d02da93adea)
